@@ -17,7 +17,7 @@ class Header {
                             <span 
                             class="typewrite" 
                             data-period="1000" 
-                            data-type='["Junior","Front-end","Back-end","Developer"]'></span>
+                            data-type='["Junior","Full-Stack","Developer"]'></span>
                         </h1>
                         <a href="" class="btn-light animate__animated animate__swing">
                             View My Profile
