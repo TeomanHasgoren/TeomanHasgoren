@@ -1,5 +1,3 @@
-4. TeomanHasgoren
-
 Description:
 This project contains the source code of your personal website.
 
